@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Alpha3625/Alpha3625/blob/main/assets/Coding_Vibe.gif" align="center" style="width: 100%; height: 300px" />
+  <img src="https://github.com/TopCoderOne/TopCoderOne/blob/main/assets/Coding_Vibe.gif" align="center" style="width: 100%; height: 300px" />
 </div>
 
 <br/>
@@ -19,14 +19,14 @@
 <br/>
 
 <div id="header" align="center">
- <a href="https://www.github.com/Alpha3625" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+ <a href="https://www.github.com/TopCoderOne" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/TopCoderOne?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
  </a>
 
  <br/>
  <br/>
 
- <img src="https://komarev.com/ghpvc/?username=Alpha3625&style=flat-square&color=yellow" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=TopCoderOne&style=flat-square&color=yellow" alt=""/>
 </div>
 
 <h1>
@@ -79,13 +79,13 @@
 
 ## Github Stats  
 <div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alpha3625&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha3625&hide_border=true&layout=compact" align="left" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=TopCoderOne&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopCoderOne&hide_border=true&layout=compact" align="left" />  
 </div>
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alpha3625&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TopCoderOne&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
