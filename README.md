@@ -90,9 +90,9 @@
 <br/>
 
 ✨ My works
-- [Codewars](https://github.com/Alpha3625/codewars)
-- [Todos](https://alpha3625.github.io/todos/)
-- [Antools](https://alpha3625.github.io/Antools/)
-- [Wall clock](https://alpha3625.github.io/wall-clock/)
-- [landing-skyline](https://alpha3625.github.io/landing-skyline/)
-- [BURGER HOUSE](https://alpha3625.github.io/burger-house/)
+- [Codewars](https://github.com/TopCoderOne/codewars)
+- [Todos](https://TopCoderOne.github.io/todos/)
+- [Antools](https://TopCoderOne.github.io/Antools/)
+- [Wall clock](https://TopCoderOne.github.io/wall-clock/)
+- [landing-skyline](https://TopCoderOne.github.io/landing-skyline/)
+- [BURGER HOUSE](https://TopCoderOne.github.io/burger-house/)
