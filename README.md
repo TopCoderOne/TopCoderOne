@@ -90,9 +90,7 @@
 <br/>
 
 ✨ My works
+- [LeetCode](https://github.com/TopCoderOne/leetcode)
 - [Codewars](https://github.com/TopCoderOne/codewars)
-- [Todos](https://TopCoderOne.github.io/todos/)
-- [Antools](https://TopCoderOne.github.io/Antools/)
-- [Wall clock](https://TopCoderOne.github.io/wall-clock/)
-- [landing-skyline](https://TopCoderOne.github.io/landing-skyline/)
-- [BURGER HOUSE](https://TopCoderOne.github.io/burger-house/)
+- [Todo-list-mindbox](https://TopCoderOne.github.io/todo-list-mindbox)
+- [Wall clock](https://TopCoderOne.github.io/wall-clock)
