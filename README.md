@@ -92,5 +92,6 @@
 ✨ My works
 - [LeetCode](https://github.com/TopCoderOne/leetcode)
 - [Codewars](https://github.com/TopCoderOne/codewars)
-- [Todo-list-mindbox](https://TopCoderOne.github.io/todo-list-mindbox)
 - [Wall clock](https://TopCoderOne.github.io/wall-clock)
+- [BI.ZONE email-letter/](https://topcoderone.github.io/bi-zone-email-letter/)
+- [Todo-list-mindbox](https://todo-list-mindbox-psi.vercel.app/)
