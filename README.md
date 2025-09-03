@@ -93,5 +93,5 @@
 - [LeetCode](https://github.com/TopCoderOne/leetcode)
 - [Codewars](https://github.com/TopCoderOne/codewars)
 - [Wall clock](https://TopCoderOne.github.io/wall-clock)
-- [Email-template BI.ZONE](https://topcoderone.github.io/email-template_bi-zone/)
+- [Email-template BI.ZONE](https://topcoderone.github.io/email-template-bizone)
 - [Todo-list-mindbox](https://todo-list-mindbox-psi.vercel.app)
